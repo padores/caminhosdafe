@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Centro Cultural São Francisco",
+    "slug": "centro-cultural-tour",
+    "description": "Uma jornada virtual através da história e arquitetura do Centro Cultural São Francisco.",
+    "sections": [
+      {
+        "title": "Centro Cultural São Francisco",
+        "subtitle": "Uma jornada através do tempo e da cultura",
+        "content": "Bem-vindo ao Coração da Fé e da Arte da Paraíba!\r\nOlá! Sou \"Caminhos da fé - João Pessoa\", e serei seu guia nesta jornada sonora por um dos mais espetaculares tesouros do Brasil: o Centro Cultural São Francisco.\r\n\r\nVocê está prestes a adentrar um universo onde a história, a fé e a arte se entrelaçam em cada detalhe. Mais do que um monumento, este complexo é um portal para os séculos de história que moldaram João Pessoa e a Paraíba. Considerado uma das mais valiosas expressões do patrimônio histórico e artístico nacional, este espaço respira o passado colonial brasileiro.",
+        "order": 0,
+        "is_landing": true,
+        "image": "./media/tour_images/2020-12-28.webp",
+        "audio_file": null,
+        "images": []
+      },
+      {
+        "title": "Ponto 1: Introdução ao Complexo Franciscano",
+        "subtitle": "Introdução",
+        "content": "Ponto 1: Introdução ao Complexo Franciscano\r\n(Inicie este áudio no grande adro, em frente à fachada da Igreja de São Francisco, próximo ao cruzeiro.)\r\n\r\nSeja muito bem-vindo! Você está no adro do Centro Cultural São Francisco, um monumental complexo arquitetônico que representa um dos mais importantes legados do período barroco no Brasil.  O que vemos hoje é o resultado de séculos de construção, fé e resiliência, iniciado ainda no final do século XVI.\r\n\r\n\r\n\r\n\r\nEste grandioso conjunto franciscano é formado por várias edificações que visitaremos:\r\n\r\n\r\nA Igreja de São Francisco e o Convento de Santo Antônio. \r\n\r\n\r\n\r\nA Capela Dourada, também conhecida como Casa de Oração dos Terceiros. \r\n\r\n\r\n\r\n\r\n\r\nO Claustro da Ordem Terceira e a Capela de São Benedito. \r\n\r\n\r\n\r\n\r\nTombado pelo Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN) em 1952, este complexo é um marco fundamental no processo de colonização e desenvolvimento de João Pessoa. \r\n\r\n\r\n\r\nA história deste local começa entre 1588 e 1589, quando os primeiros frades franciscanos, liderados pelo Frei Melchior, fundaram aqui o Convento de Santo Antônio. O objetivo era claro: pacificar os povos originários e consolidar a presença portuguesa na capitania da Paraíba, que na época era movida pela economia da cana-de-açúcar. \r\n\r\n\r\nEste solo que você pisa testemunhou eventos marcantes, como a invasão holandesa (1634-1655), período em que o convento foi transformado em quartel-general. Após a expulsão dos invasores, o complexo foi restaurado e enriquecido com os magníficos elementos da arte barroca que vemos hoje, representando uma das maiores riquezas monumentais da América Latina. \r\n\r\n\r\nObserve ao seu redor. A grandiosidade da fachada, os muros adornados com nichos de azulejos que representam a Via Sacra e o imponente cruzeiro de calcário no centro do adro.  Cada detalhe aqui conta uma parte da história.\r\n\r\n\r\nAgora, vamos nos aproximar da entrada da igreja para continuar nossa viagem no tempo. Siga para o próximo ponto.",
+        "order": 1,
+        "is_landing": false,
+        "image": "./media/tour_images/2020-12-28_m0xpVEH.webp",
+        "audio_file": "./media/tour_audio/Parte_1.mp3",
+        "images": []
+      },
+      {
+        "title": "Ponto 2: O Cruzeiro Monumental",
+        "subtitle": "Detalhes arquitetônicos únicos",
+        "content": "Ponto 2: O Cruzeiro Monumental\r\n(Posicione-se em frente ao cruzeiro de pedra no centro do adro.)\r\n\r\nVocê está agora diante do monumental Cruzeiro do adro. Esculpido em pedra calcária, ele não é apenas um marco religioso, mas uma poderosa declaração artística e simbólica do período colonial.\r\n\r\nSua presença aqui, no centro deste grande pátio, demarca o espaço sagrado antes mesmo de entrarmos na igreja. Era uma forma de dizer a todos que chegavam que estavam pisando em um território de fé.\r\n\r\nObserve com atenção os detalhes entalhados na pedra. Você notará a presença de águias esculpidas em sua estrutura. Essas águias não são um mero adorno; elas foram talhadas com o propósito de simbolizar o poder e a grandiosidade da Igreja Católica no período de sua construção. Na arte barroca, cada elemento tinha a intenção de impressionar e transmitir uma mensagem clara, e este cruzeiro é um exemplo perfeito disso.\r\n\r\nTombado como parte integral deste complexo arquitetônico, o cruzeiro é uma peça fundamental para a compreensão da forte influência franciscana na formação da cidade. Ele representa o ponto central da fé que aqui floresceu.\r\n\r\nTire um momento para caminhar ao redor dele, sentir a textura do tempo na pedra e refletir sobre os séculos de história que ele testemunhou. Quando estiver pronto, dirija seu olhar para o mural de azulejos.",
+        "order": 2,
+        "is_landing": false,
+        "image": "./media/tour_images/images.jfif",
+        "audio_file": "./media/tour_audio/Parte_2.mp3",
+        "images": []
+      },
+      {
+        "title": "Ponto 3: O Mural de Azulejos - A Fé em Imagens",
+        "subtitle": "",
+        "content": "Ponto 3: O Mural de Azulejos - A Fé em Imagens\r\n(Caminhe em direção aos muros brancos que cercam o adro.)\r\n\r\nAgora, por favor, aproxime-se de qualquer um dos grandes nichos azuis e brancos incrustados nos muros que delimitam o pátio. O que você vê não são apenas belos azulejos portugueses; são páginas de uma história sagrada contada em cerâmica.\r\n\r\nOs muros do adro são ornamentados com seis grandes painéis de azulejos que representam a Via Sacra, narrando a Paixão de Cristo. Em uma época em que a maioria da população era analfabeta, a arte era a principal ferramenta de evangelização. Esses murais funcionavam como uma bíblia visual, permitindo que os fiéis meditassem sobre os momentos finais da vida de Jesus de forma contemplativa e didática.\r\n\r\nCada painel é uma obra de arte que revela a maestria da azulejaria portuguesa, uma característica marcante da arquitetura religiosa luso-brasileira. Aproxime-se e observe os detalhes: a expressividade dos personagens, a composição das cenas e a delicadeza dos traços. Estes azulejos sobreviveram a séculos, resistindo ao sol e à chuva, para continuar contando sua história silenciosa a todos que visitam este lugar.\r\n\r\nEles nos lembram que a fé, aqui, foi construída não apenas com pedras e argamassa, mas também com imagens poderosas que tinham o objetivo de ensinar, emocionar e inspirar a devoção.\r\n\r\nQuando estiver pronto, vamos nos dirigir à entrada da igreja, para o espaço coberto por arcos que a antecede. Nosso próximo ponto de parada será a Galilé.",
+        "order": 3,
+        "is_landing": false,
+        "image": "./media/tour_images/toddy-holland-centro-cultural-sao-francisco.webp",
+        "audio_file": "./media/tour_audio/Parte_3.mp3",
+        "images": []
+      }
+    ],
+    "created_at": "2025-08-26T12:57:44.475710+00:00",
+    "updated_at": "2025-08-26T18:50:58.322324+00:00"
+  }
+]
