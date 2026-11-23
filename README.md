@@ -1,22 +1,10 @@
-# Caminhos da Fé PB - Static Site
+# Caminhos da Fé PB: protótipo de audioguia
 
-Este é o site estático do projeto Caminhos da Fé PB, exportado do Django para GitHub Pages.
+Protótipo estático de um audioguia para as igrejas históricas do Centro de João Pessoa (PB), começando pelo Centro Cultural São Francisco.
 
-## Projeto Original
-- **Django App**: Sistema de tours virtuais do Centro Cultural São Francisco
-- **Localização**: João Pessoa, Paraíba, Brasil
-- **Objetivo**: Preservar e compartilhar a herança cultural através de experiências virtuais
-
-## Conteúdo
-- Tours virtuais interativos
-- Galeria de imagens históricas
-- Informações sobre doações e apoio ao projeto
-- Interface responsiva para dispositivos móveis
-
-## Tecnologias
-- HTML5, CSS3, JavaScript
-- Exportado de Django
-- Hospedado no GitHub Pages
-
----
-*Desenvolvido para preservar nossa história e cultura.*
+- Site: https://padores.github.io/caminhosdafe/
+- É um **protótipo de demonstração**: o conteúdo é de exemplo e os textos em rascunho ainda serão validados com a equipe do Centro Cultural São Francisco.
+- Sem cookies, sem rastreamento e sem serviços de terceiros.
+- Esta versão **não inclui fotos de terceiros**; onde há foto, aparece um marcador neutro.
+- A versão anterior do site está no branch `backup-site-antigo`.
+- Mapa: © colaboradores do OpenStreetMap (ODbL).
