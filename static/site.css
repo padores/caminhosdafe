@@ -246,3 +246,18 @@ main { max-width: 40rem; margin: 0 auto; padding: 0 16px 2rem; }
 .retomar-link:hover { background: #FFF3D0; color: var(--cobalto-prof); }
 .retomar-rot { display: block; }
 .retomar-sub { display: block; font-weight: 400; color: var(--pedra); font-size: .9rem; }
+
+/* ---------- cartão do CCSF em azul (igreja com conteúdo) ---------- */
+.cartao-icone--ativo { background: var(--cobalto-prof); --disco: var(--cobalto-prof); box-shadow: 0 0 0 3px var(--papel), 0 0 0 4px var(--ouro); }
+
+/* ---------- espaço de apoio (doação), discreto ---------- */
+.apoio-projeto { margin: 1.5rem 0; padding: .85rem 1rem 1rem; background: #FAF1DC; border: 1.5px dashed #A99468; border-radius: var(--r2); }
+.apoio-projeto[hidden] { display: none; }
+.apoio-rotulo { display: block; font-size: .75rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--pedra); }
+.apoio-projeto h2 { margin: .15rem 0 .25rem; font-size: 1.1rem; }
+.apoio-projeto p { margin: 0 0 .6rem; font-size: .95rem; color: var(--tinta); }
+.apoio-acoes { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem .9rem; }
+.apoio-botao { display: inline-flex; align-items: center; min-height: 44px; padding: 0 1rem; border: 2px solid var(--cobalto-prof); border-radius: var(--pilula); background: transparent; color: var(--cobalto-prof); font-weight: 700; font-size: .95rem; text-decoration: none; }
+.apoio-botao:hover { background: var(--cobalto-prof); color: var(--papel); }
+.apoio-fechar { min-height: 44px; padding: 0 .5rem; border: 0; background: none; color: var(--pedra); font: 400 .9rem var(--sans); text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+.apoio-fechar:hover { color: var(--tinta); }
